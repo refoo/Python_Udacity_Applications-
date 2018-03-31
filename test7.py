@@ -1,0 +1,5 @@
+no_days=7
+no_weeks=7
+no_of_hours=24
+number_of_hours_in_7_weeks=no_days*no_weeks*no_of_hours
+print number_of_hours_in_7_weeks
